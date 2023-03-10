@@ -1,0 +1,22 @@
+# ninja log v5
+464	574	1677851033616916290	P2PServer	ab72ac9087222223
+0	464	1677851033508916292	CMakeFiles/P2PServer.dir/server/server.cpp.o	fd795217cc073318
+1	907	1678462478069004095	CMakeFiles/P2PClient.dir/client/client.cpp.o	fe1e9ce75c35d667
+731	853	1678463248329029110	P2PClient	6d291acb35657e94
+1	847	1678462478009004094	CMakeFiles/P2PClient.dir/client/clientmain.cpp.o	15a3a0f8313dbff0
+1	861	1678462478025004094	CMakeFiles/P2PClient.dir/client/pyIPC.cpp.o	b4f61be00527152e
+1	24	1676640479445471249	CMakeFiles/P2PClient.dir/common/connection.cpp.o	3cc89181a3bb296f
+0	666	1676640496873470786	CMakeFiles/P2PServer.dir/common/connection.cpp.o	3bc4f71a2ceafb43
+286	323	1676640394457473507	untitled	70eda2c3eb1be2d8
+0	731	1678463248209029106	CMakeFiles/P2PClient.dir/client/clientfunction.cpp.o	88030c9ebccf13db
+0	455	1677851033396916295	CMakeFiles/P2PServer.dir/server/servermain.cpp.o	394220ba61d7445f
+0	29	1678464617321073568	CMakeFiles/P2PClient.dir/common/connection.cpp.o	eed2254a1ca153dd
+0	857	1678464618149073595	CMakeFiles/P2PClient.dir/client/clientmain.cpp.o	57041153869aeb8f
+1	859	1678464618153073595	CMakeFiles/P2PClient.dir/client/clientfunction.cpp.o	d0b504b471cd5df2
+1	864	1678464618157073595	CMakeFiles/P2PClient.dir/client/pyIPC.cpp.o	7538bfb8b1114993
+0	897	1678464618189073596	CMakeFiles/P2PClient.dir/client/client.cpp.o	ce7c0e2f0976a2b4
+897	1017	1678464618309073600	P2PClient	6d291acb35657e94
+1	347	1678464623085073755	CMakeFiles/P2PServer.dir/common/connection.cpp.o	99716b098cfac4c4
+0	391	1678464623453073767	CMakeFiles/P2PServer.dir/server/servermain.cpp.o	7d049f3c36b53e18
+0	425	1678464623485073768	CMakeFiles/P2PServer.dir/server/server.cpp.o	3f84048df20446d3
+425	514	1678464623573073771	P2PServer	ab72ac9087222223

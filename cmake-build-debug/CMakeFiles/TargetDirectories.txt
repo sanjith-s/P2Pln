@@ -1,0 +1,4 @@
+/home/mona/CLionProjects/p2pLN/cmake-build-debug/CMakeFiles/P2PServer.dir
+/home/mona/CLionProjects/p2pLN/cmake-build-debug/CMakeFiles/P2PClient.dir
+/home/mona/CLionProjects/p2pLN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mona/CLionProjects/p2pLN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
